@@ -1,0 +1,246 @@
+E:\Satya\Authentication\Authentication\bin\ApplicationInsights.config
+E:\Satya\Authentication\Authentication\bin\roslyn\csc.exe
+E:\Satya\Authentication\Authentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Satya\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Satya\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Satya\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Satya\Authentication\Authentication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Satya\Authentication\Authentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Satya\Authentication\Authentication\bin\roslyn\System.Collections.Immutable.dll
+E:\Satya\Authentication\Authentication\bin\roslyn\System.Reflection.Metadata.dll
+E:\Satya\Authentication\Authentication\bin\roslyn\vbc.exe
+E:\Satya\Authentication\Authentication\bin\roslyn\VBCSCompiler.exe
+E:\Satya\Authentication\Authentication\bin\roslyn\VBCSCompiler.exe.config
+E:\Satya\Authentication\Authentication\bin\Authentication.dll.config
+E:\Satya\Authentication\Authentication\bin\Authentication.dll
+E:\Satya\Authentication\Authentication\bin\Authentication.pdb
+E:\Satya\Authentication\Authentication\bin\Antlr3.Runtime.dll
+E:\Satya\Authentication\Authentication\bin\EntityFramework.dll
+E:\Satya\Authentication\Authentication\bin\EntityFramework.SqlServer.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.DependencyCollector.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.Web.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.WindowsServer.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.ApplicationInsights.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.Google.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.Web.Infrastructure.dll
+E:\Satya\Authentication\Authentication\bin\Newtonsoft.Json.dll
+E:\Satya\Authentication\Authentication\bin\Owin.dll
+E:\Satya\Authentication\Authentication\bin\System.Web.Helpers.dll
+E:\Satya\Authentication\Authentication\bin\System.Web.Mvc.dll
+E:\Satya\Authentication\Authentication\bin\System.Web.Optimization.dll
+E:\Satya\Authentication\Authentication\bin\System.Web.Razor.dll
+E:\Satya\Authentication\Authentication\bin\System.Web.WebPages.Deployment.dll
+E:\Satya\Authentication\Authentication\bin\System.Web.WebPages.dll
+E:\Satya\Authentication\Authentication\bin\System.Web.WebPages.Razor.dll
+E:\Satya\Authentication\Authentication\bin\WebGrease.dll
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.DependencyCollector.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.Web.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.AI.WindowsServer.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.ApplicationInsights.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Satya\Authentication\Authentication\bin\System.Web.Helpers.xml
+E:\Satya\Authentication\Authentication\bin\System.Web.Mvc.xml
+E:\Satya\Authentication\Authentication\bin\System.Web.Optimization.xml
+E:\Satya\Authentication\Authentication\bin\System.Web.Razor.xml
+E:\Satya\Authentication\Authentication\bin\System.Web.WebPages.xml
+E:\Satya\Authentication\Authentication\bin\System.Web.WebPages.Deployment.xml
+E:\Satya\Authentication\Authentication\bin\System.Web.WebPages.Razor.xml
+E:\Satya\Authentication\Authentication\bin\Antlr3.Runtime.pdb
+E:\Satya\Authentication\Authentication\bin\Newtonsoft.Json.xml
+E:\Satya\Authentication\Authentication\bin\EntityFramework.xml
+E:\Satya\Authentication\Authentication\bin\EntityFramework.SqlServer.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.Google.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Satya\Authentication\Authentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Satya\Authentication\Authentication\obj\Debug\Authentication.csprojResolveAssemblyReference.cache
+E:\Satya\Authentication\Authentication\obj\Debug\Authentication.dll
+E:\Satya\Authentication\Authentication\obj\Debug\Authentication.pdb
+D:\Authentication\Authentication\Authentication\bin\ApplicationInsights.config
+D:\Authentication\Authentication\Authentication\bin\roslyn\csc.exe
+D:\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Authentication\Authentication\Authentication\bin\roslyn\System.Collections.Immutable.dll
+D:\Authentication\Authentication\Authentication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Authentication\Authentication\Authentication\bin\roslyn\vbc.exe
+D:\Authentication\Authentication\Authentication\bin\roslyn\VBCSCompiler.exe
+D:\Authentication\Authentication\Authentication\bin\roslyn\VBCSCompiler.exe.config
+D:\Authentication\Authentication\Authentication\bin\Authentication.dll.config
+D:\Authentication\Authentication\Authentication\bin\Authentication.dll
+D:\Authentication\Authentication\Authentication\bin\Authentication.pdb
+D:\Authentication\Authentication\Authentication\bin\Antlr3.Runtime.dll
+D:\Authentication\Authentication\Authentication\bin\EntityFramework.dll
+D:\Authentication\Authentication\Authentication\bin\EntityFramework.SqlServer.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.Web.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.WindowsServer.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.ApplicationInsights.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Google.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Web.Infrastructure.dll
+D:\Authentication\Authentication\Authentication\bin\Newtonsoft.Json.dll
+D:\Authentication\Authentication\Authentication\bin\Owin.dll
+D:\Authentication\Authentication\Authentication\bin\System.Web.Helpers.dll
+D:\Authentication\Authentication\Authentication\bin\System.Web.Mvc.dll
+D:\Authentication\Authentication\Authentication\bin\System.Web.Optimization.dll
+D:\Authentication\Authentication\Authentication\bin\System.Web.Razor.dll
+D:\Authentication\Authentication\Authentication\bin\System.Web.WebPages.Deployment.dll
+D:\Authentication\Authentication\Authentication\bin\System.Web.WebPages.dll
+D:\Authentication\Authentication\Authentication\bin\System.Web.WebPages.Razor.dll
+D:\Authentication\Authentication\Authentication\bin\WebGrease.dll
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.Web.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AI.WindowsServer.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.ApplicationInsights.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Authentication\Authentication\Authentication\bin\System.Web.Helpers.xml
+D:\Authentication\Authentication\Authentication\bin\System.Web.Mvc.xml
+D:\Authentication\Authentication\Authentication\bin\System.Web.Optimization.xml
+D:\Authentication\Authentication\Authentication\bin\System.Web.Razor.xml
+D:\Authentication\Authentication\Authentication\bin\System.Web.WebPages.xml
+D:\Authentication\Authentication\Authentication\bin\System.Web.WebPages.Deployment.xml
+D:\Authentication\Authentication\Authentication\bin\System.Web.WebPages.Razor.xml
+D:\Authentication\Authentication\Authentication\bin\Antlr3.Runtime.pdb
+D:\Authentication\Authentication\Authentication\bin\Newtonsoft.Json.xml
+D:\Authentication\Authentication\Authentication\bin\EntityFramework.xml
+D:\Authentication\Authentication\Authentication\bin\EntityFramework.SqlServer.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Google.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Authentication\Authentication\Authentication\obj\Debug\Authentication.csprojResolveAssemblyReference.cache
+D:\Authentication\Authentication\Authentication\obj\Debug\Authentication.dll
+D:\Authentication\Authentication\Authentication\obj\Debug\Authentication.pdb
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\ApplicationInsights.config
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\csc.exe
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\vbc.exe
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\VBCSCompiler.exe
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Authentication.dll.config
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Authentication.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Authentication.pdb
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Antlr3.Runtime.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\EntityFramework.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\EntityFramework.SqlServer.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.Web.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Newtonsoft.Json.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Owin.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.Helpers.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.Mvc.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.Optimization.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.Razor.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.WebPages.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.WebPages.Razor.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\WebGrease.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.Web.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.Helpers.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.Mvc.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.Optimization.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.Razor.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.WebPages.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\System.Web.WebPages.Razor.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Antlr3.Runtime.pdb
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Newtonsoft.Json.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\EntityFramework.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\EntityFramework.SqlServer.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\obj\Debug\Authentication.dll
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\obj\Debug\Authentication.pdb
+C:\Users\MOHAMMED ZAKIR\Documents\Authentication\Authentication\Authentication\obj\Debug\Authentication.csprojResolveAssemblyReference.cache

@@ -1,0 +1,189 @@
+﻿@model IEnumerable<Authentication.Models.FileInfo>
+@{
+    ViewBag.Title = "Downloads";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<style>
+    .hide {
+        visibility: hidden
+    }
+</style>
+<script>
+    $(document).ready(function () {
+
+        $('table tbody tr  td').on('click', function () {
+            $("#myModal").modal("show");
+
+            if ($(this).closest('tr').children().length > 2) {
+                $("#tbxSenderId").val($(this).closest('tr').children()[0].textContent);
+                $("#tbxSenderName").val($(this).closest('tr').children()[2].textContent);
+                $("#tbxMessage").val($(this).closest('tr').children()[5].textContent);
+            }
+        });
+
+        
+        $('#btnDownload').on('click', function () {
+
+            var senderid = $("#tbxSenderId").val();
+            var senderpublickey = $("#tbxMessage").val();
+
+            
+            var url = '@Url.Action("Download", "FileUpload", new { senderid = "__param__",senderpublickey= "__param2__" })';
+            url=url.replace('__param__', encodeURIComponent(senderid));
+            url=url.replace('__param2__', encodeURIComponent(senderpublickey));
+
+            window.location.href = url;
+
+         
+
+            @*var data = new FormData();
+            var senderid = $("#tbxSenderId").val();
+            var senderpublickey = $("#tbxSenderPublicKey").val();
+
+            data.append("SenderId", senderid);
+            data.append("PublicKey", senderpublickey);
+
+
+              $.ajax(
+            {
+                url: '@Url.Action("Download", "FileUpload")',
+                contentType: 'application/json; charset=utf-8',
+                datatype: 'json',
+                data: {
+                    senderid: senderid,
+                    senderpublickey:senderpublickey
+                },
+                type: 'GET',
+                success: function () {
+                  window.location = '@Url.Action("Download", "FileUpload", new { senderid = senderid,senderpublickey='s' })';
+
+                }
+                });*@
+
+            //$.ajax({
+            //    type: "POST",
+            //    url: "/FileUpload/Download",
+            //    contentType: "application/json; charset=utf-8",
+            //    processData: false,
+            //    data: '{"senderid":"' + senderid + '","senderpublickey":"' + senderpublickey + '"}',
+            //    success: function (result, status, jqxhr) {
+
+            //    },
+            //    error: function (xhr, status, error) {
+            //        //$("#dataDiv").html("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText)
+            //    }
+            //});
+
+            // Make Ajax request with the contentType = false, and procesDate = false
+            //var ajaxRequest = $.ajax({
+            //    type: "POST",
+            //    url: "FileUpload/Download",
+            //    contentType: false,
+            //    processData: true,
+            //    data: data
+            //});
+
+            //ajaxRequest.done(function (xhr, textStatus) {
+
+            //});
+        });
+
+    });
+</script>
+
+<div class="container">
+    @Html.AntiForgeryToken()
+    <div id="loginbox" style="margin-top:50px;" class="mainbox">
+        <div class="panel panel-info">
+            <table id="example" class="table table-condensed table-hover table-bordered">
+                <thead style="background-color: #d9edf7;">
+                    <tr>
+                        <th data-field="id">Id</th>
+                        <th data-field="fname">File Name</th>
+                        <th data-field="sentto">Sent To?</th>
+                        <th data-field="sentdatetime">Sent Date/Time</th>
+                        <th>Signed Message</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+            {
+                        <tr>
+                            <td>@item.Id.ToString() </td>
+                            <td>@item.FileName.ToString()</td>
+                            <td>@item.Sender.ToString()</td>
+                            <td>@item.SendDateTime.ToString()</td>
+                            <td colspan="2">@item.PrivateKey.ToString()</td>
+                            <td class="hide">@item.Message</td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+        </div>
+</div>
+
+@*<div class="row">
+    <div class="col-xs-12 col-md-12">
+        <table class="table table-condensed table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>John</td>
+                    <td>Doe</td>
+
+                </tr>
+                <tr>
+                    <td>Sam</td>
+                    <td>Smith</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>*@
+
+<div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Download by Signing Sender's Public Key</h4>
+            </div>
+            <div class="modal-body">
+                <table>
+                    <tr>
+                        <td>
+                            Sender Id:
+                        </td>
+                        <td>
+                            <p> <input type="text" class="input-sm" id="tbxSenderId" readonly disabled /></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Sender Name:</td>
+                        <td><p><input type="text" class="input-sm" id="tbxSenderName" readonly disabled /></p></td>
+                    </tr>
+                    <tr>
+                        <td>Decrypt Secret Message:</td>
+                        <td><p><input type="text" class="form-control" id="tbxMessage" value="" readonly disabled /></p></td>
+                    </tr>
+                </table>
+                                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="btnDownload">Download</button>
+                
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
